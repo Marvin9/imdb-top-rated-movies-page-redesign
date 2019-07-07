@@ -1,0 +1,14 @@
+html
+        include /layout/head.pug
+        body(style="background-color:#f5f6fa" class="uk-animation-fade uk-padding")
+            section(class="uk-container uk-container-small uk-margin")
+                h3 Imdb Top Rated movies
+                each movie,name in movies
+                    a(href="/movies/"+ name)
+                        div(class="uk-card uk-card-default uk-padding uk-margin uk-animation-slide-left-medium")
+                            h3.uk-card-title.uk-text-bold #{movie.rank}
+                            h2 #{name}
+                            h3 #{movie.imdb_rating}
+
+        include /layout/footer.pug
+        script(src="/script.js")

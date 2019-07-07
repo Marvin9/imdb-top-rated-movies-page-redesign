@@ -1,0 +1,19 @@
+{
+  "name": "f",
+  "version": "1.0.0",
+  "description": "imdb top rated movies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mayursiinh",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-pug": "^3.0.0-2",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "pug": "^2.0.4"
+  }
+}

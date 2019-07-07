@@ -1,0 +1,37 @@
+html
+    include /layout/head.pug
+    body(style="background-color:#f5f6fa" class="uk-animation-fade uk-padding")
+        section(class="uk-container uk-container-large uk-margin")
+            a.uk-position-fixed.uk-position-z-index(href="/",style="left:30px;top:10px;color:#fff;background:#0097e6;padding:10px 20px;") Go back
+            h1(style="color:#000") #{page_title.toUpperCase()}
+            div.uk-card.uk-card-default.uk-card-body.uk-animation-slide-left-medium
+                div.uk-position-relative.uk-margin
+                        span.uk-text-large.uk-text-primary #{data.imdb_rating.split('/')[0]}
+                        span /10
+                        br
+                        span.uk-text-small.uk-text-bold #{data.rating_count}
+                        span.uk-text-small &nbsp;Rated
+                p.description.uk-margin-medium.uk-text-large.black #{data.description}
+                table.uk-table
+                    tbody
+                        tr
+                            td.uk-text-bold.uk-width-small Release
+                            td #{data.release_date || "Not available"}
+                        tr
+                            td.uk-text-bold Duration
+                            td #{data.duration}
+                        tr
+                            td.uk-text-bold Director
+                            td #{data.director}
+                        tr.tagline
+                            td.uk-text-bold.uk-text-large Tagline
+                            td.uk-text-large(style="color:#0097e6;") #{data.tagline}
+                        tr
+                            td.uk-text-bold Budget
+                            td #{data.budget}
+                        tr
+                            td.uk-text-bold Worldwide Gross
+                            td #{data.worldwide_gross || "Not available"}
+
+    include /layout/footer.pug
+    script(src="/script.js")

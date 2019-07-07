@@ -1,0 +1,15 @@
+a {
+    transition:0.5s!important;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:hover > .uk-card-default {
+    background: #00a8ff;
+}
+
+.black {
+    color: #000!important;
+}
