@@ -1,11 +1,8 @@
 {
-  "name": "f",
+  "name": "imdb-top-rated-movies",
   "version": "1.0.0",
   "description": "imdb top rated movies",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "mayursiinh",
   "license": "ISC",
   "dependencies": {
