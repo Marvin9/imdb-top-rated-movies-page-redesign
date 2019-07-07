@@ -30,10 +30,13 @@ router.get('/', (ctx) => {
 
 router.get('/movies/:name', (ctx) => {
     let movie_name_user_want = ctx.params.name;
-    ctx.render('movie_detail', {
-        page_title : movie_name_user_want,
-        data : data[movie_name_user_want]
-    })
+    if(data[movie_name_user_want])
+        ctx.render('movie_detail', {
+            page_title : movie_name_user_want,
+            data : data[movie_name_user_want]
+        });
+    else
+        ctx.redirect('/');
 });
 
 app.listen(8000, () => {
