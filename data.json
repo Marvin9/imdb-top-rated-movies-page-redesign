@@ -1,1 +1,122 @@
-{"The Shawshank Redemption":{"rank":"1","imdb_rating":"9.3/10","rating_count":"2,109,347","release_date":"14 October 1994 (USA)","duration":"2h 22min","description":"Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.","director":"Frank Darabont","tagline":"Fear can hold you prisoner. Hope can set you free.","budget":"$25,000,000","worldwide_gross":"$58,500,000"},"The Godfather":{"rank":"2","imdb_rating":"9.2/10","rating_count":"1,448,129","release_date":"","duration":"2h 55min","description":"The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.","director":"Francis Ford Coppola","tagline":"An offer you can't refuse.","budget":"$6,000,000","worldwide_gross":"$245,066,411"},"The Godfather: Part II":{"rank":"3","imdb_rating":"9.0/10","rating_count":"1,006,867","release_date":"","duration":"3h 22min","description":"The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.","director":"Francis Ford Coppola","tagline":"All the power on earth can't change destiny.","budget":"$13,000,000","worldwide_gross":""},"The Dark Knight":{"rank":"4","imdb_rating":"9.0/10","rating_count":"2,075,295","release_date":"Drama","duration":"2h 32min","description":"When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.","director":"Christopher Nolan","tagline":"I Believe In Harvey Dent.                \n See more »","budget":"$185,000,000","worldwide_gross":"$1,004,558,444, 19 July 2012"},"12 Angry Men":{"rank":"5","imdb_rating":"8.9/10","rating_count":"599,454","release_date":"10 April 1957 (USA)","duration":"1h 36min","description":"A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.","director":"Sidney Lumet","tagline":"...it explodes like twelve sticks of dynamite!                \n See more »","budget":"$350,000","worldwide_gross":""},"Schindler's List":{"rank":"6","imdb_rating":"8.9/10","rating_count":"1,094,228","release_date":"History","duration":"3h 15min","description":"In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.","director":"Steven Spielberg","tagline":"Whoever saves one life, saves the world entire.                \n See more »","budget":"$22,000,000","worldwide_gross":"$221,000,000"},"The Lord of the Rings: The Return of the King":{"rank":"7","imdb_rating":"8.9/10","rating_count":"1,501,457","release_date":"Fantasy","duration":"3h 21min","description":"Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.","director":"Peter Jackson","tagline":"There can be no triumph without loss. No victory without suffering. No freedom without sacrifice.                \n See more »","budget":"$94,000,000","worldwide_gross":"$1,119,929,521, 25 November 2011"},"Pulp Fiction":{"rank":"8","imdb_rating":"8.9/10","rating_count":"1,649,574","release_date":"","duration":"2h 34min","description":"The lives of two mob hitmen, a boxer, a gangster & his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.","director":"Quentin Tarantino","tagline":"Girls like me don't make invitations like this to just anyone!                \n See more »","budget":"$8,000,000","worldwide_gross":"$213,928,762"},"The Good, the Bad and the Ugly":{"rank":"9","imdb_rating":"8.8/10","rating_count":"626,743","release_date":"29 December 1967 (USA)","duration":"2h 58min","description":"A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.","director":"Sergio Leone","tagline":"The Man with No Name Returns!                \n See more »","budget":"Gross U","worldwide_gross":""},"Fight Club":{"rank":"10","imdb_rating":"8.8/10","rating_count":"1,686,278","release_date":"15 October 1999 (USA)","duration":"2h 19min","description":"An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.","director":"David Fincher","tagline":"Mischief. Mayhem. Soap.                \n See more »","budget":"$63,000,000","worldwide_gross":"$71,000,000"}}
+{
+   "The Shawshank Redemption":{
+      "rank":"1",
+      "imdb_rating":"9.3/10",
+      "rating_count":"2,109,347",
+      "release_date":"14 October 1994 (USA)",
+      "duration":"2h 22min",
+      "description":"Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "director":"Frank Darabont",
+      "tagline":"Fear can hold you prisoner. Hope can set you free.",
+      "budget":"$25,000,000",
+      "worldwide_gross":"$58,500,000"
+   },
+   "The Godfather":{
+      "rank":"2",
+      "imdb_rating":"9.2/10",
+      "rating_count":"1,448,129",
+      "release_date":"",
+      "duration":"2h 55min",
+      "description":"The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "director":"Francis Ford Coppola",
+      "tagline":"An offer you can't refuse.",
+      "budget":"$6,000,000",
+      "worldwide_gross":"$245,066,411"
+   },
+   "The Godfather: Part II":{
+      "rank":"3",
+      "imdb_rating":"9.0/10",
+      "rating_count":"1,006,867",
+      "release_date":"",
+      "duration":"3h 22min",
+      "description":"The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "director":"Francis Ford Coppola",
+      "tagline":"All the power on earth can't change destiny.",
+      "budget":"$13,000,000",
+      "worldwide_gross":""
+   },
+   "The Dark Knight":{
+      "rank":"4",
+      "imdb_rating":"9.0/10",
+      "rating_count":"2,075,295",
+      "release_date":"Drama",
+      "duration":"2h 32min",
+      "description":"When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "director":"Christopher Nolan",
+      "tagline":"I Believe In Harvey Dent.                \n See more »",
+      "budget":"$185,000,000",
+      "worldwide_gross":"$1,004,558,444, 19 July 2012"
+   },
+   "12 Angry Men":{
+      "rank":"5",
+      "imdb_rating":"8.9/10",
+      "rating_count":"599,454",
+      "release_date":"10 April 1957 (USA)",
+      "duration":"1h 36min",
+      "description":"A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+      "director":"Sidney Lumet",
+      "tagline":"...it explodes like twelve sticks of dynamite!                \n See more »",
+      "budget":"$350,000",
+      "worldwide_gross":""
+   },
+   "Schindler's List":{
+      "rank":"6",
+      "imdb_rating":"8.9/10",
+      "rating_count":"1,094,228",
+      "release_date":"History",
+      "duration":"3h 15min",
+      "description":"In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "director":"Steven Spielberg",
+      "tagline":"Whoever saves one life, saves the world entire.                \n See more »",
+      "budget":"$22,000,000",
+      "worldwide_gross":"$221,000,000"
+   },
+   "The Lord of the Rings: The Return of the King":{
+      "rank":"7",
+      "imdb_rating":"8.9/10",
+      "rating_count":"1,501,457",
+      "release_date":"Fantasy",
+      "duration":"3h 21min",
+      "description":"Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "director":"Peter Jackson",
+      "tagline":"There can be no triumph without loss. No victory without suffering. No freedom without sacrifice.                \n See more »",
+      "budget":"$94,000,000",
+      "worldwide_gross":"$1,119,929,521, 25 November 2011"
+   },
+   "Pulp Fiction":{
+      "rank":"8",
+      "imdb_rating":"8.9/10",
+      "rating_count":"1,649,574",
+      "release_date":"",
+      "duration":"2h 34min",
+      "description":"The lives of two mob hitmen, a boxer, a gangster & his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "director":"Quentin Tarantino",
+      "tagline":"Girls like me don't make invitations like this to just anyone!                \n See more »",
+      "budget":"$8,000,000",
+      "worldwide_gross":"$213,928,762"
+   },
+   "The Good, the Bad and the Ugly":{
+      "rank":"9",
+      "imdb_rating":"8.8/10",
+      "rating_count":"626,743",
+      "release_date":"29 December 1967 (USA)",
+      "duration":"2h 58min",
+      "description":"A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+      "director":"Sergio Leone",
+      "tagline":"The Man with No Name Returns!                \n See more »",
+      "budget":"Gross U",
+      "worldwide_gross":""
+   },
+   "Fight Club":{
+      "rank":"10",
+      "imdb_rating":"8.8/10",
+      "rating_count":"1,686,278",
+      "release_date":"15 October 1999 (USA)",
+      "duration":"2h 19min",
+      "description":"An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+      "director":"David Fincher",
+      "tagline":"Mischief. Mayhem. Soap.                \n See more »",
+      "budget":"$63,000,000",
+      "worldwide_gross":"$71,000,000"
+   }
+}
