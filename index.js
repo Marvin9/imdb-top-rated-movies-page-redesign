@@ -39,6 +39,8 @@ router.get('/movies/:name', (ctx) => {
         ctx.redirect('/');
 });
 
-app.listen(8000, () => {
-    console.log("Server running at 8000");
+const PORT = process.env.PORT || 8000;
+
+app.listen(PORT, () => {
+    console.log("Server running at " + PORT);
 });
